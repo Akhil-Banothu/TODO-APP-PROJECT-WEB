@@ -162,11 +162,11 @@ input {
 
 .task2 input {
    display: block;
-   width: 87%;
+   width: 91%;
    margin: auto;
    margin-top: 20px;
    margin-bottom: 20px;
-   height: 28px;
+   height: 40px;
    border: 1px solid #EDEDED;
    background-color: #EDEDED;
    color: black;
